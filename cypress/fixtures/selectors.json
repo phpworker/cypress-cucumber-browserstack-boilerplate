@@ -1,0 +1,11 @@
+{
+  "googleHomePage": {
+    "form": {
+      "searchBar": "input[name='q']"
+    },
+    "searchBtn": "button#search",
+    "cookieConsentPopupBtn": "button#L2AGLb",
+    "langSel": "a#langSel",
+    "searchResults": "div#search"
+  }
+}
